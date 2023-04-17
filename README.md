@@ -4,4 +4,4 @@ Factors affecting:
 - Height, weight, age
 - Goal, Assist
 - Minutes-player
-# So, we can predict player salary.
+# So, we can predict player salary for each reason. 
